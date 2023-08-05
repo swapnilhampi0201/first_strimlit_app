@@ -43,7 +43,7 @@ except URLError as e:
 # write your own comment - what does this do?
 
 
-streamlit.stop()
+# streamlit.stop()
 
 
 
